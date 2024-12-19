@@ -1,2 +1,5 @@
 # adobe-assessment
-THis
+Run -
+`npm install`
+`npm start`
+
