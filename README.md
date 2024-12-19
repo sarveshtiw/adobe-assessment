@@ -14,7 +14,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+Output - 
+[screenshot.pdf](https://github.com/user-attachments/files/18196691/screenshot.pdf)
+[screenshot-2.pdf](https://github.com/user-attachments/files/18196692/screenshot-2.pdf)
+
 ### `npm test`
+
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
